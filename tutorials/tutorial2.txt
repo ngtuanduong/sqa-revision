@@ -1,0 +1,28 @@
+Software Quality Assurance
+Tutorial 2
+Introduction
+	•	Requirements: One of Software Engineering’s (SE) primary concerns, ensuring that the system development aligns with necessary goals
+	•	Use Case: A method used to depict a software system specifically from the end user’s point of view
+	•	Representation Forms: Use cases can be documented through narrative text (user stories), template-based descriptions (written use cases), or diagrammatic representations such as activity diagrams
+	•	Use Case Diagram: A visual outline of tasks and interactions that provides a high-level map of system functionality
+	•	System Relations: A description of the relations between actors and features, including specific dependencies between different features
+	•	Decomposition: A technique used for the breakdown of complex, large-scale use cases into smaller, more manageable units
+	•	Multi-system Interaction: A capability of diagrams to incorporate multiple actors and multiple systems, showing how one actor can interact with several systems at once
+Preparation
+	•	Install StarUML for drawing diagrams (preferred version: 7.0.0) or choose any other (online/offline) tool that you prefer (such as diagrams.net, lucidchart, visual paradigm).
+Activity 1
+Task
+Draw a use-case diagram for the following description:
+On an e-commerce website, a customer first visits the home page. From this page, he can do one of the following actions: search for products with a search box, browse for products with a menu of categories, view products that are listed on the home page, add products that are listed on home page to the shopping cart, chat with the customer support staff through a chat box.
+Searching with the search box will lead to a search result page where he can quickly add some products to the shopping cart or click on a product to go to the product details page.
+Browsing with the menu also leads to product listing pages from where he can add to cart or view product details as well.
+In the product details page, he can also add that product to cart.
+From any page, the customer can view his shopping cart. Only from the shopping cart page, he can go to the check-out page to enter his personal and payment info and place an order.
+Activity 2
+Task
+Identify the actors and draw a use-case diagram for the following description:
+In a hospital software system, a patient has to go through a procedure. A receptionist enters a patient’s personal info in order to create his/her medical profile. The patient is then transferred to a suitable department for further diagnosis. He/she goes to this department to meet a doctor who tells him to perform a number of tests (such as ultrasound, X-Ray, blood test…). The tests are done in different rooms, by different hospital staff. Upon having test results, the doctor draws a conclusion and gives the patient a prescription of medicines.
+Activity 3
+Task
+Draw a use-case diagram for the ATM machine.
+In order to perform any transaction, the user needs to insert his ATM card and provide a pin code to login. Other operations that can be done are checking account balance, withdrawing money, sending money, changing pin code… After each operation, the machine asks if the user wants to continue with another operation. If the user chooses yes, the machine brings him back to the main menu. Otherwise, the machine displays a thank-you screen and then rejects the card for the user to pick up.

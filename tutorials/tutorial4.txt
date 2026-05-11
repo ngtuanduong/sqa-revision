@@ -1,0 +1,20 @@
+Software Quality Assurance
+Tutorial 4
+Preparation
+Figma tool: https://www.figma.com
+Activity 1
+Task
+Draw the following form using Figma design tool:
+
+Activity 2
+Task
+Draw the following report window using Figma design tool:
+
+
+Activity 3
+Choose a topic(you can use your own topic) then design the GUI by using Figma. This topic needs to have GUI, register feature, login feature, logout feature, CRUD features, store data in database (mysql, mongodb,..). List suggested topics: 
+	- University control website
+	- House monitor website
+	- Mobile selling website
+	- Streaming website
+	- Technical share forum
