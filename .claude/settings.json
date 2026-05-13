@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip show *)",
+      "Bash(where ffmpeg *)",
+      "Bash(edge-tts --voice vi-VN-HoaiMyNeural --rate=+10% --file \"c:\\\\tmp\\\\day3-podcast-script.txt\" --write-media \"c:\\\\Users\\\\duong\\\\sqa-revision\\\\revision\\\\audio\\\\day3-podcast.mp3\")"
+    ]
+  }
+}
